@@ -8,7 +8,7 @@
 
 | Colab | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gNBkqgJM3QhYDdahqg11JXW6P2IVEeZq?usp=sharing) | resemble-enhance-colab (Free colab 🙂)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gNBkqgJM3QhYDdahqg11JXW6P2IVEeZq?usp=sharing) | resemble-enhance-colab-web-Ui (Free colab 🙂)
 
 ### 🧬original  repo
 https://github.com/resemble-ai/resemble-enhance
