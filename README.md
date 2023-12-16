@@ -14,4 +14,4 @@
 https://github.com/resemble-ai/resemble-enhance
 
 ### 🏢 Sponsor
-(my self 🙂 https://spochai.com)
+(No one 🙂)
